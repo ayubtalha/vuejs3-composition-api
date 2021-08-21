@@ -1,0 +1,7 @@
+The Composition API
+- Composition API Basics
+- setup()
+- Template Refs
+- Using Refs for reactivity
+-Refs vs Reactive
+- Using computed values
