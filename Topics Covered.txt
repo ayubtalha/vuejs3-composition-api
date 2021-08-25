@@ -5,3 +5,4 @@ The Composition API
 - Using Refs for reactivity
 -Refs vs Reactive
 - Using computed values
+- Watch and Watch Effect
